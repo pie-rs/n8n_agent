@@ -23,8 +23,8 @@
     "file-dump": "node direct-file-dump.js"
   },
   "dependencies": {
-    "@qdrant/js-client-rest": "^1.7.0",
-    "@supabase/supabase-js": "^2.49.4",
+    "@qdrant/js-client-rest": "^1.19.0",
+    "@supabase/supabase-js": "^2.117.2",
     "dotenv": "^16.3.1",
     "neo4j-driver": "^5.28.1",
     "openai": "^4.0.0"
